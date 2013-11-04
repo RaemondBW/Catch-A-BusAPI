@@ -4,7 +4,7 @@ from flask import Flask, jsonify, abort, request, make_response, url_for
 from resources import agencies
 
 app = Flask(__name__, static_url_path = "")
-auth = HTTPBasicAuth()
+#auth = HTTPBasicAuth()
 
 @app.route('/busAPI/agencies', methods = ['get'])
 def returnAgencies():
