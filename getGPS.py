@@ -10,12 +10,12 @@ for agency in [item['agency'] for item in agencies]:
     maxLon = -float('inf')
     routesPage = urllib2.urlopen("http://webservices.nextbus.com/service/publicXMLFeed?command=routeList&a="\
         + agency)
-    root = ET.fromstring(routesPage)
+    root = ET.fromstring(routesPage).read()
     for routeTag in [route.attrib['tag'] for route in root.iter('route')]:
         #get the longitude and latitude from the route page to develop and idea of where the transit agencies are
         routePage = urllib2.urlopen("http://webservices.nextbus.com/service/publicXMLFeed?command=routeConfig&a="\
             +agency+"&r="+routeTag)
-        routeRoot = ET.fromstring(routePage)
+        routeRoot = ET.fromstring(routePage).read()
         latmin = int(routeRoot[0].attrib['latMin'])
         latmax = int(routeRoot[0].attrib['latMax'])
         lonmin = int(routeRoot[0].attrib['lonMin'])
