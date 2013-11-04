@@ -1,0 +1,1 @@
+ssh -i catch-a-bus.pem ec2-user@ec2-54-221-55-14.compute-1.amazonaws.com
