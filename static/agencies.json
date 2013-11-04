@@ -1,0 +1,526 @@
+{
+  "agencies": [
+    {
+      "agency": "actransit", 
+      "maxLat": "37.9967199", 
+      "maxLon": "-121.89429", 
+      "minLat": "37.4136599", 
+      "minLon": "-122.39384", 
+      "tempagency": "actransit", 
+      "title": "AC Transit"
+    }, 
+    {
+      "agency": "howard", 
+      "maxLat": "39.2907599", 
+      "maxLon": "-76.57302", 
+      "minLat": "38.9781499", 
+      "minLon": "-76.92758", 
+      "tempagency": "howard", 
+      "title": "CMRT and Howard Transit"
+    }, 
+    {
+      "agency": "camarillo", 
+      "maxLat": "34.2427717", 
+      "maxLon": "-118.9876378", 
+      "minLat": "34.2205648", 
+      "minLon": "-119.05074", 
+      "tempagency": "camarillo", 
+      "title": "Camarillo Area (CAT)"
+    }, 
+    {
+      "agency": "ccrta", 
+      "maxLat": "42.0509599", 
+      "maxLon": "-69.96195", 
+      "minLat": "41.5230299", 
+      "minLon": "-70.6698", 
+      "tempagency": "ccrta", 
+      "title": "Cape Cod Regional Transit Authority"
+    }, 
+    {
+      "agency": "chapel-hill", 
+      "maxLat": "36.0872", 
+      "maxLon": "-79.0019302", 
+      "minLat": "35.7463212", 
+      "minLon": "-79.16574", 
+      "tempagency": "chapel-hill", 
+      "title": "Chapel Hill Transit"
+    }, 
+    {
+      "agency": "charles-river", 
+      "maxLat": "42.3711091", 
+      "maxLon": "-71.06367", 
+      "minLat": "42.3584761", 
+      "minLon": "-71.1060261", 
+      "tempagency": "charles-river", 
+      "title": "Charles River TMA - EZRide"
+    }, 
+    {
+      "agency": "charm-city", 
+      "maxLat": "39.3080868", 
+      "maxLon": "-76.58384", 
+      "minLat": "39.26569", 
+      "minLon": "-76.6347212", 
+      "tempagency": "charm-city", 
+      "title": "Charm City Circulator"
+    }, 
+    {
+      "agency": "ccny", 
+      "maxLat": "40.82432", 
+      "maxLon": "-73.9448504", 
+      "minLat": "40.8105099", 
+      "minLon": "-73.95273", 
+      "tempagency": "ccny", 
+      "title": "City College NYC"
+    }, 
+    {
+      "agency": "oxford-ms", 
+      "maxLat": "34.3860709", 
+      "maxLon": "-89.4809502", 
+      "minLat": "34.3296779", 
+      "minLon": "-89.5861318", 
+      "tempagency": "oxford-ms", 
+      "title": "City of Oxford"
+    }, 
+    {
+      "agency": "collegetown", 
+      "maxLat": "39.4103489", 
+      "maxLon": "-76.5830537", 
+      "minLat": "39.30699", 
+      "minLon": "-76.62356", 
+      "tempagency": "collegetown", 
+      "title": "Collegetown Shuttle"
+    }, 
+    {
+      "agency": "cyride", 
+      "maxLat": "42.05641", 
+      "maxLon": "-93.57522", 
+      "minLat": "41.98656", 
+      "minLon": "-93.69105", 
+      "tempagency": "cyride", 
+      "title": "CyRide"
+    }, 
+    {
+      "agency": "dc-circulator", 
+      "maxLat": "38.9287578", 
+      "maxLon": "-76.9650042", 
+      "minLat": "38.8605747", 
+      "minLon": "-77.07153", 
+      "tempagency": "dc-circulator", 
+      "title": "DC Circulator"
+    }, 
+    {
+      "agency": "da", 
+      "maxLat": "40.7174991", 
+      "maxLon": "-74.0037799", 
+      "minLat": "40.7024781", 
+      "minLon": "-74.01807", 
+      "tempagency": "da", 
+      "title": "Downtown Connection"
+    }, 
+    {
+      "agency": "dumbarton", 
+      "maxLat": "37.5903599", 
+      "maxLon": "-122.01725", 
+      "minLat": "37.39346", 
+      "minLon": "-122.172663", 
+      "tempagency": "dumbarton", 
+      "title": "Dumbarton Express"
+    }, 
+    {
+      "agency": "ecu", 
+      "maxLat": "35.6312963", 
+      "maxLon": "-77.308982", 
+      "minLat": "35.5591852", 
+      "minLon": "-77.4054599", 
+      "tempagency": "ecu", 
+      "title": "East Carolina University"
+    }, 
+    {
+      "agency": "emery", 
+      "maxLat": "37.8525014", 
+      "maxLon": "-122.2663299", 
+      "minLat": "37.82855", 
+      "minLon": "-122.3046153", 
+      "tempagency": "emery", 
+      "title": "Emery-Go-Round"
+    }, 
+    {
+      "agency": "fairfax", 
+      "maxLat": "38.87881", 
+      "maxLon": "-77.2624433", 
+      "minLat": "38.8346227", 
+      "minLon": "-77.3327843", 
+      "tempagency": "fairfax", 
+      "title": "Fairfax (CUE)"
+    }, 
+    {
+      "agency": "foothill", 
+      "maxLat": "34.1518899", 
+      "maxLon": "-117.6903599", 
+      "minLat": "33.9156399", 
+      "minLon": "-118.3095", 
+      "tempagency": "foothill", 
+      "title": "Foothill Transit"
+    }, 
+    {
+      "agency": "gmu", 
+      "maxLat": "38.87875", 
+      "maxLon": "-77.2707449", 
+      "minLat": "38.75593", 
+      "minLon": "-77.5244505", 
+      "tempagency": "gmu", 
+      "title": "George Mason University"
+    }, 
+    {
+      "agency": "georgia-college", 
+      "maxLat": "33.15267", 
+      "maxLon": "-83.2293922", 
+      "minLat": "33.0760577", 
+      "minLon": "-83.27206", 
+      "tempagency": "georgia-college", 
+      "title": "Georgia College"
+    }, 
+    {
+      "agency": "glendale", 
+      "maxLat": "34.2238091", 
+      "maxLon": "-118.1751647", 
+      "minLat": "34.124434", 
+      "minLon": "-118.3122299", 
+      "tempagency": "glendale", 
+      "title": "Glendale Beeline"
+    }, 
+    {
+      "agency": "south-coast", 
+      "maxLat": "34.4488464", 
+      "maxLon": "-119.1324723", 
+      "minLat": "34.1428185", 
+      "minLon": "-119.3075488", 
+      "tempagency": "south-coast", 
+      "title": "Gold Coast Transit"
+    }, 
+    {
+      "agency": "lasell", 
+      "maxLat": "42.3498497", 
+      "maxLon": "-71.2256699", 
+      "minLat": "42.3351", 
+      "minLon": "-71.25502", 
+      "tempagency": "lasell", 
+      "title": "Lasell College"
+    }, 
+    {
+      "agency": "lametro", 
+      "maxLat": "34.3261599", 
+      "maxLon": "-117.80943", 
+      "minLat": "33.70685", 
+      "minLon": "-118.86091", 
+      "tempagency": "lametro", 
+      "title": "Los Angeles Metro"
+    }, 
+    {
+      "agency": "lametro-rail", 
+      "maxLat": "34.1684999", 
+      "maxLon": "-118.08121", 
+      "minLat": "33.7680699", 
+      "minLon": "-118.38899", 
+      "tempagency": "lametro-rail", 
+      "title": "Los Angeles Rail"
+    }, 
+    {
+      "agency": "loyola", 
+      "maxLat": "39.3576799", 
+      "maxLon": "-76.6100359", 
+      "minLat": "39.3380781", 
+      "minLon": "-76.6528581", 
+      "tempagency": "loyola", 
+      "title": "Loyola University Maryland"
+    }, 
+    {
+      "agency": "mbta", 
+      "maxLat": "42.58744", 
+      "maxLon": "-70.84537", 
+      "minLat": "42.1064699", 
+      "minLon": "-71.29118", 
+      "tempagency": "mbta", 
+      "title": "MBTA"
+    }, 
+    {
+      "agency": "mit", 
+      "maxLat": "42.378954", 
+      "maxLon": "-71.077116", 
+      "minLat": "42.346556", 
+      "minLon": "-71.123886", 
+      "tempagency": "mit", 
+      "title": "Massachusetts Institute of Technology"
+    }, 
+    {
+      "agency": "moorpark", 
+      "maxLat": "34.3021518", 
+      "maxLon": "-118.8352093", 
+      "minLat": "34.2625699", 
+      "minLon": "-118.9093732", 
+      "tempagency": "moorpark", 
+      "title": "Moorpark Transit"
+    }, 
+    {
+      "agency": "bronx", 
+      "maxLat": "40.9123799", 
+      "maxLon": "-73.78335", 
+      "minLat": "40.7996499", 
+      "minLon": "-73.96017", 
+      "tempagency": "bronx", 
+      "title": "NYC MTA - Bronx"
+    }, 
+    {
+      "agency": "brooklyn", 
+      "maxLat": "40.6920599", 
+      "maxLon": "-73.97677", 
+      "minLat": "40.6122499", 
+      "minLon": "-74.0399", 
+      "tempagency": "brooklyn", 
+      "title": "NYC MTA - Brooklyn"
+    }, 
+    {
+      "agency": "staten-island", 
+      "maxLat": "40.7705899", 
+      "maxLon": "-73.96683", 
+      "minLat": "40.5029799", 
+      "minLon": "-74.25201", 
+      "tempagency": "staten-island", 
+      "title": "NYC MTA - Staten Island"
+    }, 
+    {
+      "agency": "nctd", 
+      "maxLat": "33.4280199", 
+      "maxLon": "-116.86978", 
+      "minLat": "32.7175099", 
+      "minLon": "-117.5935", 
+      "tempagency": "nctd", 
+      "title": "North County Transit District"
+    }, 
+    {
+      "agency": "omnitrans", 
+      "maxLat": "34.2025199", 
+      "maxLon": "-117.03438", 
+      "minLat": "33.9598299", 
+      "minLon": "-117.75122", 
+      "tempagency": "omnitrans", 
+      "title": "Omnitrans"
+    }, 
+    {
+      "agency": "sria", 
+      "maxLat": "30.3434317", 
+      "maxLon": "-87.0787788", 
+      "minLat": "30.3260412", 
+      "minLon": "-87.178505", 
+      "tempagency": "sria", 
+      "title": "Pensacola Beach (SRIA)"
+    }, 
+    {
+      "agency": "portland-sc", 
+      "maxLat": "45.5350899", 
+      "maxLon": "-122.6586", 
+      "minLat": "45.49388", 
+      "minLon": "-122.6987", 
+      "tempagency": "portland-sc", 
+      "title": "Portland Streetcar"
+    }, 
+    {
+      "agency": "pgc", 
+      "maxLat": "39.0227537", 
+      "maxLon": "-76.7090249", 
+      "minLat": "38.6547421", 
+      "minLon": "-77.0166597", 
+      "tempagency": "pgc", 
+      "title": "Prince Georges County"
+    }, 
+    {
+      "agency": "reno", 
+      "maxLat": "39.6547699", 
+      "maxLon": "-119.69789", 
+      "minLat": "39.1574199", 
+      "minLon": "-119.8971499", 
+      "tempagency": "reno", 
+      "title": "RTC RIDE, Reno"
+    }, 
+    {
+      "agency": "radford", 
+      "maxLat": "37.2296657", 
+      "maxLon": "-80.3705663", 
+      "minLat": "37.10631", 
+      "minLon": "-80.5904699", 
+      "tempagency": "radford", 
+      "title": "Radford Transit"
+    }, 
+    {
+      "agency": "roosevelt", 
+      "maxLat": "40.76888", 
+      "maxLon": "-73.9431741", 
+      "minLat": "40.7534287", 
+      "minLon": "-73.9584779", 
+      "tempagency": "roosevelt", 
+      "title": "Roosevelt Island"
+    }, 
+    {
+      "agency": "rutgers-newark", 
+      "maxLat": "40.77051", 
+      "maxLon": "-74.136768", 
+      "minLat": "40.7338582", 
+      "minLon": "-74.1892646", 
+      "tempagency": "rutgers-newark", 
+      "title": "Rutgers Univ. Newark College Town Shuttle"
+    }, 
+    {
+      "agency": "rutgers", 
+      "maxLat": "40.5277304", 
+      "maxLon": "-74.4287199", 
+      "minLat": "40.47891", 
+      "minLon": "-74.46629", 
+      "tempagency": "rutgers", 
+      "title": "Rutgers University"
+    }, 
+    {
+      "agency": "sf-muni", 
+      "maxLat": "37.8364399", 
+      "maxLon": "-122.36545", 
+      "minLat": "37.7057599", 
+      "minLon": "-122.53867", 
+      "tempagency": "sf-muni", 
+      "title": "San Francisco Muni"
+    }, 
+    {
+      "agency": "seattle-sc", 
+      "maxLat": "47.6283596", 
+      "maxLon": "-122.3312904", 
+      "minLat": "47.6128877", 
+      "minLon": "-122.33853", 
+      "tempagency": "seattle-sc", 
+      "title": "Seattle Streetcar"
+    }, 
+    {
+      "agency": "simi-valley", 
+      "maxLat": "34.2935299", 
+      "maxLon": "-118.5989654", 
+      "minLat": "34.2296119", 
+      "minLon": "-118.8409638", 
+      "tempagency": "simi-valley", 
+      "title": "Simi Valley (SVT)"
+    }, 
+    {
+      "agency": "stl", 
+      "maxLat": "45.6992899", 
+      "maxLon": "-73.5343499", 
+      "minLat": "45.5132999", 
+      "minLon": "-73.88344", 
+      "tempagency": "stl", 
+      "title": "Societe de transport de Laval"
+    }, 
+    {
+      "agency": "temple", 
+      "maxLat": "39.9855186", 
+      "maxLon": "-75.1497283", 
+      "minLat": "39.9763606", 
+      "minLon": "-75.1601426", 
+      "tempagency": "temple", 
+      "title": "Temple University"
+    }, 
+    {
+      "agency": "thousand-oaks", 
+      "maxLat": "34.2853459", 
+      "maxLon": "-118.8156699", 
+      "minLat": "34.1483299", 
+      "minLon": "-118.98201", 
+      "tempagency": "thousand-oaks", 
+      "title": "Thousand Oaks Transit (TOT)"
+    }, 
+    {
+      "agency": "thunderbay", 
+      "maxLat": "48.4786999", 
+      "maxLon": "-89.1819", 
+      "minLat": "48.3462599", 
+      "minLon": "-89.38849", 
+      "tempagency": "thunderbay", 
+      "title": "Thunder Bay"
+    }, 
+    {
+      "agency": "ttc", 
+      "maxLat": "43.9143599", 
+      "maxLon": "-79.12305", 
+      "minLat": "43.5918099", 
+      "minLon": "-79.6499", 
+      "tempagency": "ttc", 
+      "title": "Toronto Transit Commission"
+    }, 
+    {
+      "agency": "unitrans", 
+      "maxLat": "38.5731299", 
+      "maxLon": "-121.68349", 
+      "minLat": "38.53422", 
+      "minLon": "-121.78849", 
+      "tempagency": "unitrans", 
+      "title": "Unitrans ASUCD/City of Davis"
+    }, 
+    {
+      "agency": "ucsf", 
+      "maxLat": "37.7864906", 
+      "maxLon": "-122.389564", 
+      "minLat": "37.7543408", 
+      "minLon": "-122.5049971", 
+      "tempagency": "ucsf", 
+      "title": "University of California San Francisco"
+    }, 
+    {
+      "agency": "umd", 
+      "maxLat": "39.30543", 
+      "maxLon": "-76.6119231", 
+      "minLat": "38.9488713", 
+      "minLon": "-77.2015946", 
+      "tempagency": "umd", 
+      "title": "University of Maryland"
+    }, 
+    {
+      "agency": "umn-twin", 
+      "maxLat": "44.99166", 
+      "maxLon": "-93.1788092", 
+      "minLat": "44.9708537", 
+      "minLon": "-93.2457576", 
+      "tempagency": "umn-twin", 
+      "title": "University of Minnesota"
+    }, 
+    {
+      "agency": "unh", 
+      "maxLat": "43.3096199", 
+      "maxLon": "-70.75784", 
+      "minLat": "43.0684999", 
+      "minLon": "-71.0073899", 
+      "tempagency": "unh", 
+      "title": "University of New Hampshire - Wildcat Transit"
+    }, 
+    {
+      "agency": "vista", 
+      "maxLat": "34.4439099", 
+      "maxLon": "-118.5882184", 
+      "minLat": "34.15384", 
+      "minLon": "-119.865532", 
+      "tempagency": "vista", 
+      "title": "Ventura Intercity (VISTA)"
+    }, 
+    {
+      "agency": "wku", 
+      "maxLat": "36.9938309", 
+      "maxLon": "-86.4288098", 
+      "minLat": "36.9491", 
+      "minLon": "-86.4730964", 
+      "tempagency": "wku", 
+      "title": "Western Kentucky University"
+    }, 
+    {
+      "agency": "york-pa", 
+      "maxLat": "39.9498946", 
+      "maxLon": "-76.728126", 
+      "minLat": "39.9430399", 
+      "minLon": "-76.7397806", 
+      "tempagency": "york-pa", 
+      "title": "York College"
+    }
+  ]
+}

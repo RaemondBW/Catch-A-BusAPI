@@ -8,7 +8,8 @@ app = Flask(__name__, static_url_path = "")
 
 @app.route('/agencies', methods = ['get'])
 def returnAgencies():
-    return jsonify({'agencies' : agencies})
+    return url_for('static', filename="agencies.json")
+    #return jsonify({'agencies' : agencies})
     
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=10080)
