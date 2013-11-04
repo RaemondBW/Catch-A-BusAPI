@@ -1,6 +1,6 @@
 #!flask/bin/python
 from flask import Flask, jsonify, abort, request, make_response, url_for
-from flask.ext.httpauth import HTTPBasicAuth
+#from flask.ext.httpauth import HTTPBasicAuth
 from resources import agencies
 
 app = Flask(__name__, static_url_path = "")
