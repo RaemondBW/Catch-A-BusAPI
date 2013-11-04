@@ -1,0 +1,236 @@
+{
+  "agencyList": [
+    {
+      "agency": "actransit", 
+      "title": "AC Transit"
+    }, 
+    {
+      "agency": "howard", 
+      "title": "CMRT and Howard Transit"
+    }, 
+    {
+      "agency": "camarillo", 
+      "title": "Camarillo Area (CAT)"
+    }, 
+    {
+      "agency": "ccrta", 
+      "title": "Cape Cod Regional Transit Authority"
+    }, 
+    {
+      "agency": "chapel-hill", 
+      "title": "Chapel Hill Transit"
+    }, 
+    {
+      "agency": "charles-river", 
+      "title": "Charles River TMA - EZRide"
+    }, 
+    {
+      "agency": "charm-city", 
+      "title": "Charm City Circulator"
+    }, 
+    {
+      "agency": "ccny", 
+      "title": "City College NYC"
+    }, 
+    {
+      "agency": "oxford-ms", 
+      "title": "City of Oxford"
+    }, 
+    {
+      "agency": "collegetown", 
+      "title": "Collegetown Shuttle"
+    }, 
+    {
+      "agency": "cyride", 
+      "title": "CyRide"
+    }, 
+    {
+      "agency": "dc-circulator", 
+      "title": "DC Circulator"
+    }, 
+    {
+      "agency": "da", 
+      "title": "Downtown Connection"
+    }, 
+    {
+      "agency": "dumbarton", 
+      "title": "Dumbarton Express"
+    }, 
+    {
+      "agency": "ecu", 
+      "title": "East Carolina University"
+    }, 
+    {
+      "agency": "emery", 
+      "title": "Emery-Go-Round"
+    }, 
+    {
+      "agency": "fairfax", 
+      "title": "Fairfax (CUE)"
+    }, 
+    {
+      "agency": "foothill", 
+      "title": "Foothill Transit"
+    }, 
+    {
+      "agency": "gmu", 
+      "title": "George Mason University"
+    }, 
+    {
+      "agency": "georgia-college", 
+      "title": "Georgia College"
+    }, 
+    {
+      "agency": "glendale", 
+      "title": "Glendale Beeline"
+    }, 
+    {
+      "agency": "south-coast", 
+      "title": "Gold Coast Transit"
+    }, 
+    {
+      "agency": "lasell", 
+      "title": "Lasell College"
+    }, 
+    {
+      "agency": "lametro", 
+      "title": "Los Angeles Metro"
+    }, 
+    {
+      "agency": "lametro-rail", 
+      "title": "Los Angeles Rail"
+    }, 
+    {
+      "agency": "loyola", 
+      "title": "Loyola University Maryland"
+    }, 
+    {
+      "agency": "mbta", 
+      "title": "MBTA"
+    }, 
+    {
+      "agency": "mit", 
+      "title": "Massachusetts Institute of Technology"
+    }, 
+    {
+      "agency": "moorpark", 
+      "title": "Moorpark Transit"
+    }, 
+    {
+      "agency": "bronx", 
+      "title": "NYC MTA - Bronx"
+    }, 
+    {
+      "agency": "brooklyn", 
+      "title": "NYC MTA - Brooklyn"
+    }, 
+    {
+      "agency": "staten-island", 
+      "title": "NYC MTA - Staten Island"
+    }, 
+    {
+      "agency": "nctd", 
+      "title": "North County Transit District"
+    }, 
+    {
+      "agency": "omnitrans", 
+      "title": "Omnitrans"
+    }, 
+    {
+      "agency": "sria", 
+      "title": "Pensacola Beach (SRIA)"
+    }, 
+    {
+      "agency": "portland-sc", 
+      "title": "Portland Streetcar"
+    }, 
+    {
+      "agency": "pgc", 
+      "title": "Prince Georges County"
+    }, 
+    {
+      "agency": "reno", 
+      "title": "RTC RIDE, Reno"
+    }, 
+    {
+      "agency": "radford", 
+      "title": "Radford Transit"
+    }, 
+    {
+      "agency": "roosevelt", 
+      "title": "Roosevelt Island"
+    }, 
+    {
+      "agency": "rutgers-newark", 
+      "title": "Rutgers Univ. Newark College Town Shuttle"
+    }, 
+    {
+      "agency": "rutgers", 
+      "title": "Rutgers University"
+    }, 
+    {
+      "agency": "sf-muni", 
+      "title": "San Francisco Muni"
+    }, 
+    {
+      "agency": "seattle-sc", 
+      "title": "Seattle Streetcar"
+    }, 
+    {
+      "agency": "simi-valley", 
+      "title": "Simi Valley (SVT)"
+    }, 
+    {
+      "agency": "stl", 
+      "title": "Societe de transport de Laval"
+    }, 
+    {
+      "agency": "temple", 
+      "title": "Temple University"
+    }, 
+    {
+      "agency": "thousand-oaks", 
+      "title": "Thousand Oaks Transit (TOT)"
+    }, 
+    {
+      "agency": "thunderbay", 
+      "title": "Thunder Bay"
+    }, 
+    {
+      "agency": "ttc", 
+      "title": "Toronto Transit Commission"
+    }, 
+    {
+      "agency": "unitrans", 
+      "title": "Unitrans ASUCD/City of Davis"
+    }, 
+    {
+      "agency": "ucsf", 
+      "title": "University of California San Francisco"
+    }, 
+    {
+      "agency": "umd", 
+      "title": "University of Maryland"
+    }, 
+    {
+      "agency": "umn-twin", 
+      "title": "University of Minnesota"
+    }, 
+    {
+      "agency": "unh", 
+      "title": "University of New Hampshire - Wildcat Transit"
+    }, 
+    {
+      "agency": "vista", 
+      "title": "Ventura Intercity (VISTA)"
+    }, 
+    {
+      "agency": "wku", 
+      "title": "Western Kentucky University"
+    }, 
+    {
+      "agency": "york-pa", 
+      "title": "York College"
+    }
+  ]
+}
