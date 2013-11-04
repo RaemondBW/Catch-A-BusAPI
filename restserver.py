@@ -6,7 +6,7 @@ from resources import agencies
 app = Flask(__name__, static_url_path = "")
 #auth = HTTPBasicAuth()
 
-@app.route('/busAPI/agencies', methods = ['get'])
+@app.route('/agencies', methods = ['get'])
 def returnAgencies():
     return jsonify({'agencies' : agencies})
     
